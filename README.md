@@ -46,6 +46,7 @@ ROS beginner and intermediate level tutorials from ROS WIKI . Here we learnt abo
 
 ### Gazebo simulation
 As we would be needing a simulation environment to show the bot moving, we learnt gazebo simulation, SLAM(Simulation Localization and Mapping) in order to create an environment for the bot. The SLAM (Simultaneous Localization and Mapping) is a technique to draw a map by estimating current location in an arbitrary space. The SLAM is a well-known feature of TurtleBot 
+![image](https://user-images.githubusercontent.com/86585405/123770607-0d2d0a80-d8e8-11eb-9fd6-1feca6d6fb8d.png)
 ![image](https://user-images.githubusercontent.com/86585405/123770283-cdfeb980-d8e7-11eb-9aab-92bd6d7d3a5d.png)
 ### Turtlebot
 In order to start with implementing the EEG signals on the Bot, we used turtlebot3, we looked over the robotis tutorial and material. Turtlebot is a far simpler bot which was fit to serve as a starting point to us. We can have SLAM nodes, navigation, simulation and all other features we expect in our bot in a much simpler manner. 
