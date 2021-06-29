@@ -50,6 +50,7 @@ In order to start with implementing the EEG signals on the Bot, we used turtlebo
 
 ### Open source manipulator
 Open source manipulator is exactly the thing we needed, since as explained above we are only dealing with the hand movements, we needed a bot which could really perform those hand movements. Open Source manipulator is a hand robot which could be attached to the turtlebot and could be used to pick and hold objects and show movements. 
+![image](https://user-images.githubusercontent.com/86585405/123769718-34370c80-d8e7-11eb-8614-79a408183ca0.png)
 
 ### Solidworks
 We had a plan that once we complete the implementation of datasets turtlebot, we would create a bot of our own, which we would design on our own. Therefore we learnt Solidworks. We practiced through Solidworks Tutorials, CAD CAm tutorials and various workshops conducted. 
