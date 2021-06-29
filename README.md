@@ -28,6 +28,8 @@ Acquired info about various parts of Brain like cerebrum, cerebellum , medulla, 
 ### Study of electrodes source
 In measurement of EEG signals the system adapted for placement of electrodes on the scalp is called the 10 - 20 electrode system. This system standardized physical placement and designations of electrodes on the scalp. The head is divided into proportional distances from prominent skull landmarks (nasion, preauricular points, inion) to provide adequate coverage of all regions of the brain. Label 10-20 designates proportional distance in percents between ears and nose where points for electrodes are chosen. Electrode placements are labelled according to adjacent brain areas: F (frontal), C (central), T (temporal), P (posterior), and O (occipital). The letters are accompanied by odd numbers at the left side of the head and with even numbers on the right side. Left and right side is considered by convention from the point of view of a subject.
 We gathered this information by reading various research papers and reading through some pdf describing the experiments performed on EEG signals.This study of electrodes helped us to understand which electrodes signals represent signals corresponding to hand movement. 
+![image](https://user-images.githubusercontent.com/86585405/123770006-811ae300-d8e7-11eb-96b0-06f391ed7cf9.png)
+
 ### EEG datasets
 Encephalographic measurements employ a recording system consisting of - electrodes with conductive media - amplifiers with filters - A/D converter - recording device. 
 We used data set available on kaggle to train our ML programme 
