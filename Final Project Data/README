@@ -1,6 +1,5 @@
 This folder contains data pertaining to final outputs of our project. 
-
-# Following are the files contained and their descriptions:
+Following are the files contained and their descriptions:
 a) Test.zip : This contains the files on which the model was finally tested.
 b) Output.csv : Since there was a version mismatch, half of the code is run in google collab and the output is copy pasted to ROS module. This file contains the output which is copy pasted.
 c) model.pt: this contains the weights of the our CNN model.
